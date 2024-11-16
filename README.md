@@ -32,3 +32,4 @@ Straight is a card game designed for four players, where each player can either 
 ---
 
 This improved version clarifies the rules, highlights features, and enhances readability. Let me know if you’d like to expand on any specific section!# Straights-Card-Game
+# Straights-Card-Game
